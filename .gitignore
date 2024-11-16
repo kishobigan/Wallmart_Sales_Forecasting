@@ -1,0 +1,8 @@
+"data/*.csv" 
+*.csv
+*.h5
+*.pkl
+*.zip
+__pycache__/
+*.xml
+*.iml
